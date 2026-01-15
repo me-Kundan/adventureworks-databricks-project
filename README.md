@@ -11,7 +11,9 @@ The project closely mirrors real-world enterprise data engineering practices whi
    - The overall architecture, data modeling, transformations, and optimization techniques remain aligned with real-world, production-grade data engineering practices.
 
 
-## Architecture
+
+![AdventureWorks Databricks Architecture](Architecture.png)
+
 - Bronze Layer: Raw ingestion from CSV
 - Silver Layer: Cleaned, conformed data
 - Gold Layer:
